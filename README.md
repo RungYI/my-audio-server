@@ -48,4 +48,8 @@ URL 是 部署後的 URL, 後面加 /static/623518.mp3
 
 https://with-amp-kvmoegoyaw.now.sh
 
-
+```
+聲音檔URL 
+https://with-amp-kvmoegoyaw.now.sh/static/623518.mp3
+```
+![李 登 輝的聲音](https://with-amp-kvmoegoyaw.now.sh/static/623518.mp3)
