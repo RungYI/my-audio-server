@@ -43,13 +43,14 @@ Next.js allows the construction of custom Documents. This feature enable the usa
 本機測試時 URL 是 http://localhost:3000/static/623518.mp3
 now 以後
 URL 是 部署後的 URL, 後面加 /static/623518.mp3
-
+```
 ## demo on "now"
 
 https://with-amp-kvmoegoyaw.now.sh
 
-```
-聲音檔URL 
-https://with-amp-kvmoegoyaw.now.sh/static/623518.mp3
-```
+
+- 聲音檔URL 
+- https://with-amp-kvmoegoyaw.now.sh/static/623518.mp3
+
+
 ![李 登 輝的聲音](https://with-amp-kvmoegoyaw.now.sh/static/623518.mp3)
