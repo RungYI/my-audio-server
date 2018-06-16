@@ -53,4 +53,4 @@ https://with-amp-kvmoegoyaw.now.sh
 - https://with-amp-kvmoegoyaw.now.sh/static/623518.mp3
 
 
-![李 登 輝的聲音](https://with-amp-kvmoegoyaw.now.sh/static/623518.mp3)
+[李 登 輝的聲音](https://with-amp-kvmoegoyaw.now.sh/static/623518.mp3)
